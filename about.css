@@ -1,0 +1,181 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;1,400;1,500&family=Dancing+Script:wght@400;500;600&family=Source+Serif+Pro:ital,wght@0,200;0,300;0,400;0,600;1,200;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;1,400;1,500&family=Dancing+Script:wght@400;500;600&family=Inter:wght@100;200;300;400;500;600;700&family=Source+Serif+Pro:ital,wght@0,200;0,300;0,400;0,600;1,200;1,300;1,400&display=swap');
+
+*{margin: 0%;
+    background: #F3F3F3;
+}
+nav{
+    
+   
+    display: flex;
+    justify-content: space-between;
+    padding-left: 160px ;
+    padding-right: 160px;
+    padding-top: 102px;
+    
+}
+.nav-links ul{
+    display: flex;
+    gap: 31px;
+    list-style: none;
+    font-family: DM Sans;
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 25.2px;
+    initial-letter: -3%;
+}
+
+ .nav-links li a{
+    text-decoration: none;
+    color:black;
+ }
+ .nav-links li a:hover{
+    color:gray;
+}
+.heading1 h1{
+    font-family: DM Sans;
+    font-size: 60px;
+    font-weight: 500; 
+    line-height: 58.32px;
+    padding-top: 258px;
+    padding-right: 640px;
+    color: black;
+    width: 480px;
+}
+.heading1 h2{
+    font-family: DM Sans;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 37.44px;
+    color: gray;
+    width: 575px;
+    height: 359px;
+    top: 489px;
+    right: 545px;
+    left:0px;
+   
+    
+}
+
+.img1{
+    width:421px;
+    height: 590px;
+    padding-top: 258px;
+    padding-right: 640px;
+}
+
+.Text1 p{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.87px;
+    color: black;
+    width: 126px;
+    height: 15px;
+    top: 989px;
+    left:0px;
+    
+   
+}
+.Text2 p{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    color: black;
+    width: 436px;
+    height: 54px;
+    top: 989px;
+    
+    right:550px;
+    line-height:22px ;
+    
+   
+}
+
+.Text3 p{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.87px;
+    color: black;
+    width: 124px;
+    height: 15px;
+    top: 1100px;
+    left:0px;
+}
+.Text4 p{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    color: black;
+    width: 436px;
+    height: 54px;
+    top:1100px;
+    
+    right:600px;
+    bottom:542px;
+    line-height: 22px;
+    
+    
+}
+.hr{
+    top: 1400px;
+    width: 1120;
+    height:6;
+}
+
+.heading3{
+    font-family: DM sans;
+    font-size: 32px;
+    font-weight: 400;
+    color: black;
+    width:347px;
+    height:71px;
+    top:1509px;
+    left:0px;
+    right:773px;
+    bottom: 264px;
+}
+.mail p{
+    font-family: DM Sans;
+    font-size: 32px;
+    font-weight: 400;
+    color: black;
+    width:372px;
+    height:37px;
+    top:1516px;
+    bottom:291px;
+    left:669px;
+    right:79px;
+}
+.mail label{
+    width: 110px;
+    height: 22px;
+}
+.copyright p{
+    font-family: DM Sans;
+    font-size: 21px;
+    font-weight: 500;
+    color: blue;
+    width:270.82px;
+    height:20px;
+    top:1598px;
+    left: 0px;
+    bottom: 70px;
+    right:1009.18px;
+}
+.sm ul{
+    display: flex;
+    gap: 21px;
+    list-style: none;
+    font-family: DM Sans;
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 25.2px;
+    initial-letter: -3%;
+}
+
+ .sm li a:hover{
+    color:gray;
+}
